@@ -57,5 +57,5 @@ async def post_deals(ctx):
 
         await asyncio.sleep(600)
 
-bot.run('NzgwODQzMzU3NTM4MDkxMDI5.X70_Cw.Z68DvzwMviLpUS-emw3xQb_UVAM')
+bot.run('YOURBOTTOKEN')
 
